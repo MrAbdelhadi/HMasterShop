@@ -30,5 +30,5 @@ For installation assistance, please contact us at:
 HMasterShop is your ultimate partner for managing your store with efficiency and professionalism, allowing you to focus on growing your business and achieving success.
 
 
-![HMasterShop](![Capture d’écran 2024-08-24 211042](https://github.com/user-attachments/assets/8bf0aa63-7bf7-466a-9d6c-8cbe57c6bfb7)
-)
+**La première interface**![Capture d’écran 2024-08-24 211042](https://github.com/user-attachments/assets/8bf0aa63-7bf7-466a-9d6c-8cbe57c6bfb7)
+
