@@ -30,5 +30,13 @@ For installation assistance, please contact us at:
 HMasterShop is your ultimate partner for managing your store with efficiency and professionalism, allowing you to focus on growing your business and achieving success.
 
 
-**La première interface**![Capture d’écran 2024-08-24 211042](https://github.com/user-attachments/assets/8bf0aa63-7bf7-466a-9d6c-8cbe57c6bfb7)
+##La première interface![Capture d’écran 2024-08-24 211042](https://github.com/user-attachments/assets/8bf0aa63-7bf7-466a-9d6c-8cbe57c6bfb7)
+##Connexion à l'interface ![Capture d’écran 2024-08-24 211153](https://github.com/user-attachments/assets/a63e677d-1ecf-4c78-95e4-6df13bf0c466)
+##Interface de base ![Capture d’écran 2024-08-24 211217](https://github.com/user-attachments/assets/de7d2a44-02d9-41f6-b378-0472eaad9c53)
+##Point de vente ![Capture d’écran 2024-08-24 211244](https://github.com/user-attachments/assets/96a73eb1-b2e3-4d92-a7a4-e4015685266c)
+##Page d'inventaire et ajouter un produit ![Capture d’écran 2024-08-24 211313](https://github.com/user-attachments/assets/d0b33b57-6fc5-4cb6-87c8-44552ad82a74)
+##Page d'histoires ![Capture d’écran 2024-08-24 211357](https://github.com/user-attachments/assets/444b0aa3-8ddb-4c55-bffd-85494404b67c)
+##Page de statistiques ![Capture d’écran 2024-08-24 211414](https://github.com/user-attachments/assets/658d50af-a8f3-4cdc-8f9b-596b404c56a1)
+##Page de gestion des clients ![Capture d’écran 2024-08-24 211445](https://github.com/user-attachments/assets/38e4b3d6-6acf-4614-87f5-fa788a4d71d8)
+##Page des paramètres ![Capture d’écran 2024-08-24 211505](https://github.com/user-attachments/assets/cbf75491-528b-434e-acfe-7c6fd70cda47)
 
