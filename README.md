@@ -21,8 +21,14 @@
 
 ## 📥 Installation
 
-Follow the [installation guide](#) to get started quickly and easily.
+For installation assistance, please contact us at:
+- **Phone**: +213541477519
+- **Email**: [mr.sarimohamedabdelhadi@gmail.com](mailto:mr.sarimohamedabdelhadi@gmail.com)
 
 ## 💡 Why Choose HMasterShop?
 
 HMasterShop is your ultimate partner for managing your store with efficiency and professionalism, allowing you to focus on growing your business and achieving success.
+
+
+![HMasterShop](![Capture d’écran 2024-08-24 211042](https://github.com/user-attachments/assets/8bf0aa63-7bf7-466a-9d6c-8cbe57c6bfb7)
+)
